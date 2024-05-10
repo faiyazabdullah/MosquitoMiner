@@ -4,10 +4,10 @@
 MosquitoMiner is an innovative solution designed to autonomously detect and eliminate mosquito breeding sites, reducing the risk of mosquito-borne diseases. This project combines advanced robotics, computer vision, and machine learning to create a light-weight rover that can navigate through various terrains, identify potential breeding grounds, and apply targeted treatments to disrupt the mosquito lifecycle.
 
 ## System Diagram
-![System Diagram](System Diagram/system_diagram.jpg)
+![System Diagram](System%20Diagram/system_diagram.jpg)
 
 ## Rover Images
-![Rover Image](Rover Images/20240510_151539.jpg)
+![Rover Image](Rover%20Images/20240510_151539.jpg)
 
 ## Features
 - **Autonomous Navigation:** Equipped with GPS and sensor-based guidance systems to navigate complex environments.
