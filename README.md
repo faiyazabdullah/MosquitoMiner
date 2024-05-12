@@ -14,6 +14,9 @@ MosquitoMiner is an innovative solution designed to autonomously detect and elim
 - **Mosquito Detection:** Utilizes computer vision and AI to accurately identify mosquitoes and their breeding sites.
 - **Targeted Treatment:** Applies eco-friendly treatments to specific areas, minimizing environmental impact.
 
+## Access the Dataset
+Explore the MosquitoFusion dataset on Kaggle: <a href="https://kaggle.com/datasets/7bf08a7472f60b606c17c4a5c14e8cbe7ffc471c6b23d93c9c1992416f3a5226" target="_blank">MosquitoFusion</a>
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
