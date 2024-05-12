@@ -14,10 +14,6 @@ MosquitoMiner is an innovative solution designed to autonomously detect and elim
 - **Mosquito Detection:** Utilizes computer vision and AI to accurately identify mosquitoes and their breeding sites.
 - **Targeted Treatment:** Applies eco-friendly treatments to specific areas, minimizing environmental impact.
 
-## Getting Started
-To get started with MosquitoMiner, clone this repository and check the installation instructions detailed in the documentation.
-git clone https://github.com/faiyazabdullah/MosquitoMiner.git
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
