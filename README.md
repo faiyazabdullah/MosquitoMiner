@@ -9,6 +9,7 @@ YouTube Video Link - https://youtu.be/UL2HmXnCcOk
 ![System Diagram](System%20Diagram/system_diagram.jpg)
 
 ## Rover Images
+![Rover Image](Rover%20Images/rover.jpg)
 ![Rover Image](Rover%20Images/20240510_151539.jpg)
 
 ## Features
