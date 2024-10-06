@@ -7,6 +7,8 @@ YouTube Video Link - https://youtu.be/UL2HmXnCcOk
 
 Pre-print Link - https://arxiv.org/abs/2409.08078
 
+Paper Presentation - https://youtu.be/VjfZQ4wg4fo?si=WBSI9N_KYwfv1qSb
+
 ## System Diagram
 ![System Diagram](System%20Diagram/system_diagram.jpg)
 
